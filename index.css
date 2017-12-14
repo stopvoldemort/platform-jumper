@@ -1,0 +1,26 @@
+#dodger {
+  background-color: pink;
+  position: absolute;
+}
+
+#screen {
+  background-color: #111;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+}
+
+.rock {
+  width: 20px;
+  height: 20px;
+  background: tan;
+  position: absolute;
+}
+
+.timer {
+  background-color: white;
+  color: red;
+  position: absolute;
+  text-align: center;
+}
